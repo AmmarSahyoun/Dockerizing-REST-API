@@ -1,0 +1,10 @@
+1-First pull the cassandra image
+# docker pull cassandra
+
+2-to run cassandra on docker
+# docker run --name test-cassandra-v2 -p 9042:9042
+
+3-install python driver package to communicate with cassandra
+# pip3 install cassandra-driver
+
+after that will use python to connect to a cluster to read\write and sync data
