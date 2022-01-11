@@ -7,4 +7,11 @@
 3-install python driver package to communicate with cassandra
 # pip3 install cassandra-driver
 
+4-shw all running containers
+# docker ps
+
+
 after that will use python to connect to a cluster to read\write and sync data
+
+
+### https://www.youtube.com/watch?v=qMauZqJH3ZM
